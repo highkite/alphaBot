@@ -1,0 +1,5 @@
+matplotlib==1.3.1
+autopy==0.51
+numpy==1.8.2
+scikit-image==0.11.3
+scipy==0.13.3
