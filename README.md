@@ -2,6 +2,10 @@
 
 Farming bot for the game **Alpha Wars** (http://eng.alphawars.com/)
 
+<p align="center">
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=YuqQ8hFBmiE" target="_blank"><img src="http://img.youtube.com/vi/YuqQ8hFBmiE/0.jpg" alt="alphaBot demo" width="240" height="180" border="10" /></a>
+</p>
+
 # Introduction
 (Not important for running **alphaBot**)
 
