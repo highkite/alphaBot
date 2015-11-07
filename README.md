@@ -21,6 +21,12 @@ or created by transforming fuel. But the transformation is very expensive and th
 conversion. To become a serious threat to your opponents you need to buy ***Titanium*** for money, otherwise
 you spend whole days by clicking every minute on a capture.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/highkite/alphaBot/master/documentation/Captcha_example.png"><br>
+  Example of an <b>Alpha Wars</b> captcha.
+</p>
+
+
 Clicking on a rectangle. Seems to be a very simple task, even for a computer. My plan was to take
 a screenshot and do some image processing. I always searched for a project where I could use image
 processing, because I was eager to learn the skill. Thus it was a great opportunity. My first approach
