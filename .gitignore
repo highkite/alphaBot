@@ -1,4 +1,4 @@
-*.png
+./*.png
 *.pyc
 *.swp
 ./captcha/*.png
